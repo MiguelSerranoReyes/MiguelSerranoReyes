@@ -30,7 +30,7 @@ Mi trabajo académico busca integrar enfoques experimentales, computacionales y 
 
 ## Contacto
 
-**Correo institucional:** [mserrano@fi.unam.edu](mailto:mserrano@fi.unam.edu)
-**Correo alterno:** [mserrano@ifc.unam.mx](mailto:mserrano@ifc.unam.mx)
-**GitHub:** [https://github.com/MiguelSerranoReyes](https://github.com/MiguelSerranoReyes)
-**Google Scholar:** [https://scholar.google.com/citations?user](https://scholar.google.com/citations?user)
+**Correo institucional:** mserrano@fi.unam.edu  
+**Correo alterno:** mserrano@ifc.unam.mx  
+**GitHub:** https://github.com/MiguelSerranoReyes  
+**Google Scholar:** https://scholar.google.com/citations?user=89E5XM4AAAAJ  
