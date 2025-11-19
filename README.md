@@ -1,43 +1,36 @@
-# 👋 ¡Hola! Soy Miguel Serrano Reyes
+# Miguel Serrano Reyes
 
-🎓 **Investigador y Profesor en Neurociencias y Tecnología Biomédica**  
-💡 **Intereses:** Neuroingeniería, Ciencia de Datos, IA en Salud, Instrumentación Biomédica  
-📍 **Afiliación:** Universidad Nacional Autónoma de México (UNAM)  
-🧠 **Miembro del SNI Nivel I (CONAHCYT)**
-
----
-
-## 🚀 Sobre mí
-Soy un investigador apasionado por la intersección entre **neurociencias, ingeniería y ciencia de datos**. He trabajado en el análisis computacional de ensambles neuronales, el desarrollo de tecnología educativa basada en IA y la innovación en instrumentación biomédica. Actualmente, formo parte del **Departamento de Ingeniería en Sistemas Biomédicos de la UNAM**, donde imparto cursos y dirijo proyectos de investigación aplicada.
+**Profesor de Carrera**
+Facultad de Ingeniería, Universidad Nacional Autónoma de México (UNAM)
+Miembro del Sistema Nacional de Investigadoras e Investigadores (SNII), Nivel I — SECIHTI
 
 ---
 
-## 📚 Experiencia y Logros
-🔬 **Investigación:** Participación en proyectos de Fronteras de la Ciencia del CONAHCYT y en PAPIIT de la UNAM.  
-📝 **Publicaciones:** Autor y coautor de artículos en revistas indexadas y capítulos de libros científicos.  
-🖥️ **Docencia:** Profesor en neuroingeniería, programación y modelado computacional en la UNAM.  
-🎤 **Divulgación:** Ponente en congresos nacionales e internacionales sobre neurociencia y tecnología biomédica.  
-🎖️ **Reconocimientos:** Miembro Pleno de Sigma Xi.  
+## Sobre mí
+
+Soy Ingeniero Mecatrónico y Doctor en Ciencias Biomédicas por la UNAM. Actualmente me desempeño como **Profesor de Carrera en el Departamento de Ingeniería en Sistemas Biomédicos** de la Facultad de Ingeniería, donde imparto cursos relacionados con programación, matemáticas aplicadas, electrónica y neuroingeniería.
+
+Aunque mi labor es principalmente docente, participo de forma activa en proyectos de **investigación aplicada**, especialmente en la intersección entre neurociencias, ingeniería biomédica e inteligencia artificial. Me interesa comprender y modelar sistemas neurobiológicos, así como desarrollar herramientas tecnológicas que fortalezcan la educación científica y médica.
+
+De manera paralela, colaboro con la **Licenciatura en Neurociencias de la Facultad de Medicina**, contribuyendo con cursos orientados al análisis computacional, los fundamentos matemáticos y la electrónica aplicada al estudio del sistema nervioso.
+
+Mi trabajo académico busca integrar enfoques experimentales, computacionales y educativos para avanzar en el entendimiento de los sistemas biológicos y en la formación de nuevas generaciones de ingenieras, ingenieros, científicas y científicos.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
-- **Programación:** Python, MATLAB, R, C++
-- **Machine Learning & Data Science:** Scikit-Learn, TensorFlow, UMAP, NetworkX
-- **Electrónica y Hardware:** Raspberry Pi, Arduino, EEG
-- **Desarrollo Web & API:** Flask, Django, Angular, React
-- **Cloud & DevOps:** AWS, Docker, GitHub Actions
+## Áreas de interés
+
+* Neuroingeniería y neurociencia computacional
+* Inteligencia artificial aplicada a educación y salud
+* Modelado y análisis de sistemas neurobiológicos
+* Ciencia de datos en contextos biomédicos
+* Instrumentación y electrónica aplicada a neurociencias
 
 ---
 
-## 📌 Proyectos Destacados
-🧑‍⚕️ **Paciente Virtual Estandarizado:** Simulador de consultas médicas con IA.  
-🔬 **Identificación de Ensambles Neuronales:** Aplicación de teoría de grafos en neurociencia.  
-🎓 **Cursos en UNAM:** Desarrollo de materiales didácticos en programación y neuroingeniería.  
+## Contacto
 
----
-
-## 📫 ¡Conéctate conmigo!
-🌐 **[GitHub](https://github.com/MiguelSerranoReyes)**  
-📧 **mserrano@ifc.unam.mx** 
-📖 **[Google Scholar](https://scholar.google.com/citations?user=89E5XM4AAAAJ&hl=es)**  
+**Correo institucional:** [mserrano@fi.unam.edu](mailto:mserrano@fi.unam.edu)
+**Correo alterno:** [mserrano@ifc.unam.mx](mailto:mserrano@ifc.unam.mx)
+**GitHub:** [https://github.com/MiguelSerranoReyes](https://github.com/MiguelSerranoReyes)
+**Google Scholar:** [https://scholar.google.com/citations?user](https://scholar.google.com/citations?user)
